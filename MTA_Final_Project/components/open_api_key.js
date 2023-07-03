@@ -1,1 +1,1 @@
-export default "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"; //I can only get it to work using Prof. Hickey's key for some reason.
+export default "sk-"; //I can only get it to work using Prof. Hickey's key for some reason, which I had to take out of the GitHub commit for security reasons.
